@@ -1,9 +1,10 @@
 import Container from "./container-presentation";
-
+import RenderProp from "./render-prop";
 function App() {
   return (
     <div>
-      <Container />
+      {/* <Container /> */}
+      <RenderProp />
     </div>
   );
 }
