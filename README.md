@@ -1,6 +1,6 @@
 # React Design Pattern
 
-##Types of Design Pattern in React
+## Types of Design Pattern in React
 
 - Container Presentation
 - Higher order Component
